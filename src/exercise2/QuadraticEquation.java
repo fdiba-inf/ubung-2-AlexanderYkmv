@@ -6,8 +6,9 @@ import java.util.Scanner;
 public class QuadraticEquation {
 
     public static void main(String[] args) {
-        System.out.println("Enter a,b,c: ");
+
         Scanner input = new Scanner(System.in);
+
         System.out.print("a: ");
         double a = input.nextDouble();
         System.out.print("b: ");
