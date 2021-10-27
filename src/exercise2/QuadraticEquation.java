@@ -26,7 +26,7 @@ public class QuadraticEquation {
                  System.out.println("Imaginary values");
              }
          } else if (b!=0){
-             double x3= -b/2*a;
+             double x3= -c/b;
              System.out.println("x3= " +x3);
 
 
