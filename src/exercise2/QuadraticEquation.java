@@ -9,11 +9,11 @@ public class QuadraticEquation {
 
         Scanner input = new Scanner(System.in);
 
-        System.out.print("a: ");
+        //  System.out.print("a: ");
         double a = input.nextDouble();
-        System.out.print("b: ");
+        // System.out.print("b: ");
         double b = input.nextDouble();
-        System.out.print("c: ");
+        // System.out.print("c: ");
         double c = input.nextDouble();
          if (a!=0) {
              double D= b*b -4*a*c;
